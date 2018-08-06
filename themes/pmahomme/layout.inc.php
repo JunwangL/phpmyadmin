@@ -7,6 +7,7 @@
  * @package    PhpMyAdmin-theme
  * @subpackage PMAHomme
  */
+declare(strict_types=1);
 
 /**
  * navi frame
@@ -33,7 +34,7 @@ $GLOBALS['cfg']['NaviPointerBackground']    = '#ddd';
 $GLOBALS['cfg']['MainColor']                = '#444';
 
 // background for the main frame
-$GLOBALS['cfg']['MainBackground']           = '#fafad2';
+$GLOBALS['cfg']['MainBackground']           = '#fff';
 
 // foreground (text) color of the pointer in browse mode
 $GLOBALS['cfg']['BrowsePointerColor']       = '#000';
