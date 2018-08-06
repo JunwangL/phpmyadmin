@@ -1210,7 +1210,7 @@ div#tablestatistics table {
 
 #goto_pagetop, #lock_page_icon, #page_settings_icon {
     padding: .25em;
-    background: #888;
+    background: #ff0000;
 }
 
 #page_settings_icon {
@@ -1884,7 +1884,7 @@ div.sqlvalidate {
 }
 
 .group h2 {
-    background-color: #bbb;
+    background-color: #ff0000;
     padding: .1em .3em;
     margin-top: 0;
     color: #fff;
